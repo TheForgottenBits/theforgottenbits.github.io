@@ -2,17 +2,17 @@
 layout: post
 ---
 
-Every year, I review the podcasts I listen to keep perspective, rethink what I am getting into and project to the future with podcasting.
+Every year, I review the podcasts I listen to, to keep perspective, rethink what I was into, and to project to the future with podcasting.
 
-I have always thought that people changes in time, and it is OK to be a different person through life. If not, you get fixed to your identify, for group acceptation or just because life happens.
+People change in time, and it's OK to be a different person in life. Otherwise, you would get stuck at a fixed identity just to hold to your ego, to pursue group acceptance or just because life happens and you don't stop to think about it.
 
-Podcasts have been a big part of my life for a couple of years. I learn from the best of each field, it is like sitting to drink a coffee several times a week with world-class performers, smart people, and mentors.
+Podcasts have been a big part of my life for several years now. I learn from the best of each field, it is like sitting to drink a coffee several times a week with world-class performers, smart people, and mentors.
 
 That is why I am very religious when it comes to listening to my favorite shows throughout the week.
 
-I admit it can be sometimes overwhelming. Podcasting has exploded their offer and I must exercise the let it go to a lot of amazing shows to be able to keep track. Even for my favorite shows, some of them must be skipped, when I think some topic or episode, in particular, is not that compelling. Nevertheless, I try to avoid because you never know then some topic that seems not interesting can open some unthought doors or path to learn something new, change perspectives.
+I admit it can be overwhelming at times. Podcasting has exploded its offer. I must exercise the let it go amazing shows to be able to keep track. Even for my favorite shows, some of them must be skipped when I think some topic or episode, in particular, is not that compelling. Nevertheless, I try to avoid it, because you never know when a subject that doesn't seem that interesting can open some unthought doors or new paths to something new, to change perspectives.
 
-So, enough of an intro. This year, I subscribed to:
+So, enough intro. This year, I introduced to my subscriptions the next podcasts:
 
 ## Akimbo: A Podcast from Seth Godin[^1]
 
