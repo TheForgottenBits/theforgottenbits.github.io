@@ -27,7 +27,7 @@ layout: post
 
 ## Adam Stacoviak - The Changelog[^7]
 
-![the-changelogthe-changelog.jpg)
+![the-changelog](/assets/images/posts/2020-08-26-the-changelog.jpg)
 
 ## Rebase FM - The Ruby Blend[^8]
 
