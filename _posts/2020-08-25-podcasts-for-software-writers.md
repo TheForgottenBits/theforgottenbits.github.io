@@ -35,10 +35,10 @@ layout: post
 
 <hr>
 
-[^1]:https://maintainable.fm/
-[^2]:https://devchat.tv/my-ruby-story
-[^3]:https://remoteruby.transistor.fm
-[^4]:https://rework.fm
-[^5]:https://rubyrogues.com
-[^7]:https://changelog.com/podcast
-[^8]:https://therubyblend.com
+[^1]:<https://maintainable.fm>
+[^2]:<https://devchat.tv/my-ruby-story>
+[^3]:<https://remoteruby.transistor.fm>
+[^4]:<https://rework.fm>
+[^5]:<https://rubyrogues.com>
+[^7]:<https://changelog.com/podcast>
+[^8]:<https://therubyblend.com>

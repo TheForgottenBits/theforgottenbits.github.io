@@ -58,10 +58,10 @@ Zen Founder's founder Rob Walling, and his co-host Mike Taber, give a down-to-ea
 
 <hr>
 
-[^1]:https://www.akimbo.link
-[^2]:https://findingmastery.net
-[^3]:https://jamesaltucher.com
-[^4]:https://joerogan.com
-[^5]:https://fs.blog/knowledge-project
-[^6]:https://peterattiamd.com/podcast/
-[^7]:https://www.startupsfortherestofus.com/
+[^1]:<https://www.akimbo.link>
+[^2]:<https://findingmastery.net>
+[^3]:<https://jamesaltucher.com>
+[^4]:<https://joerogan.com>
+[^5]:<https://fs.blog/knowledge-project>
+[^6]:<https://peterattiamd.com/podcast>
+[^7]:<https://www.startupsfortherestofus.com>

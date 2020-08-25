@@ -22,4 +22,4 @@ Extraversion:
 Agreeableness:
 Neuroticism:
 
-[1^]:https://www.selfauthoring.com/
+[^1]:<https://www.selfauthoring.com>

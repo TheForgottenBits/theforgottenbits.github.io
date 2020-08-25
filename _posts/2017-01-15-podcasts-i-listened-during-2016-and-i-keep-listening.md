@@ -81,14 +81,14 @@ Currently, I am using Casts because of its multi-platform (Android, iOS, WebApp)
 
 <hr>
 
-[^1]:https://zenfounder.com
-[^2]:https://www.10percenthappier.com
-[^3]:https://revisionisthistory.com/
-[^4]:https://freakonomics.com
-[^5]:https://www.thecrush.co/innovation-crush/
-[^6]:https://tim.blog/podcast/
-[^7]:https://thedistance.com/
-[^8]:https://podcastone.com/the-truth-barrel
-[^9]:https://www.theminimalists.com/
-[^10]:https://overcast.fm/
-[^11]:https://www.shiftyjelly.com/pocketcasts/
+[^1]:<https://zenfounder.com>
+[^2]:<https://www.10percenthappier.com>
+[^3]:<https://revisionisthistory.com>
+[^4]:<https://freakonomics.com>
+[^5]:<https://www.thecrush.co/innovation-crush>
+[^6]:<https://tim.blog/podcast>
+[^7]:<https://thedistance.com>
+[^8]:<https://podcastone.com/the-truth-barrel>
+[^9]:<https://www.theminimalists.com>
+[^10]:<https://overcast.fm>
+[^11]:<https://www.shiftyjelly.com/pocketcasts>

@@ -33,5 +33,5 @@ Cheers.
 
 <hr>
 
-[^1]: https://resit.cl
-[^2]: https://revisionisthistory.com/episodes/07-hallelujah
+[^1]:<https://resit.cl>
+[^2]:<https://revisionisthistory.com/episodes/07-hallelujah>
