@@ -37,8 +37,11 @@ minima:
     linkedin: andresariveros
 header_pages:
   - about.markdown
-  - music.markdown
-  - photography.markdown
+  # - bookshelf.markdown
+  # - music.markdown
+  # - photography.markdown
+  # - tools.markdown
+
 
 # Build settings
 theme: minima
